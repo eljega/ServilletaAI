@@ -22,7 +22,7 @@ def load_model():
     model = models.resnet50(pretrained=False)
     num_ftrs = model.fc.in_features
     model.fc = torch.nn.Linear(num_ftrs, 3)
-    model.load_state_dict(torch.load("model_servilletas.pth", map_location=torch.device('cpu')))
+    model.load_state_dict(torch.load("src\model_servilletas.pth", map_location=torch.device('cpu')))
     model.eval()
 
 # esta funcion se encarga de seleccionar una imagen y clasificarla
