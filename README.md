@@ -8,6 +8,10 @@
 
 Este proyecto tiene como finalidad demostrar la aplicación de modelos de aprendizaje profundo preentrenados en tareas específicas de clasificación de imágenes. ServilletaAI utiliza el potente modelo ResNet50 adaptado para distinguir entre diferentes estados de servilletas, fomentando la reutilización y adaptación de modelos en la comunidad de aprendizaje profundo.
 
+NOTA: No tengo mucho conocimiento sobre modelos preentrenados ni modelos de aprendizaje en general, estoy aprendiendo
+mientras realizo este tipo de proyectos simples, seguiré intentando mejorar y experimentar con modelos de aprendizaje
+hasta conseguir usarlos de manera util y efectiva, cualquier consejo o correccion de codigo será bien recibido.
+
 ## Estructura del Repositorio
 
 El repositorio está organizado de la siguiente manera:
