@@ -21,7 +21,7 @@ El repositorio está organizado de la siguiente manera:
 
 Para utilizar el modelo con tus propias imágenes de servilletas:
 
-1. Clona el repositorio en tu máquina local.
+1. Clona el repositorio en tu máquina local con: git clone git@github.com:eljega/ServilletaAI.git
 2. Instala las dependencias necesarias utilizando `pip install -r requirements.txt`.
 3. Coloca tus imágenes en una carpeta y utiliza el script de clasificación para obtener las predicciones.
 
