@@ -1,6 +1,6 @@
 # ServilletaAI
 
-![Banner](static/images/banner_ServilletaAI.png)
+![Banner](static/images/banner.png)
 
 ¡Bienvenidos a **ServilletaAI**! Este repositorio alberga un proyecto de clasificación de imágenes de servilletas utilizando un modelo preentrenado de ResNet50. El objetivo es identificar si las servilletas están rotas, en buen estado o si la imagen no corresponde a una servilleta.
 
